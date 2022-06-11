@@ -1,0 +1,1 @@
+# bert_optim_ner_pt_BR
